@@ -48,15 +48,16 @@ form {
   width: 300px;
 }
 
-input[type="text"],
-input[type="email"] {
+
+
+textarea {
   border: solid 1px #aaa;
-  padding: 10px;
-  font-size: 15px;
   border-radius: 5px;
+  padding: 10px;
+  height: 160px;
+  width: 300px;
+  font-size: 15px;
 }
-
-
 
 .button-area {
   text-align: center;
