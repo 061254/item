@@ -82,16 +82,3 @@ input[type="submit"] {
   cursor: pointer;
 }
 
-input[type="reset"] {
-  background: #837a7a;
-  border: none;
-  color: white;
-  font-size: 17px;
-  font-weight: bold;
-  padding: 10px 20px;
-  margin: 0 5px;
-  border-radius: 5px;
-  box-shadow: 1px 1px 3px black;
-
-  cursor: pointer;
-}
