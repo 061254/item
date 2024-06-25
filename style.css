@@ -56,20 +56,24 @@ input[type="email"] {
   border-radius: 5px;
 }
 
-textarea {
-  border: solid 1px #aaa;
-  border-radius: 5px;
-  padding: 10px;
-  height: 160px;
-  width: 300px;
-  font-size: 15px;
-}
+
 
 .button-area {
   text-align: center;
 }
 
-
+input[type="submit"] {
+  background: #4481f1;
+  border: none;
+  color: white;
+  font-size: 17px;
+  font-weight: bold;
+  padding: 10px 20px;
+  margin: 0 5px;
+  border-radius: 5px;
+  box-shadow: 1px 1px 3px black;
+  cursor: pointer;
+}
 
 input[type="reset"] {
   background: #837a7a;
