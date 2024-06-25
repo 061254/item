@@ -35,14 +35,12 @@ form {
   margin-bottom: 20px;
 }
 
-.label {
-  float: left;
-  margin-right: 20px;
-  width: 135px;
-  border-left: solid 3px #2f71ff;
-  padding-left: 10px;
-}
 
+
+.inputs {
+  float: left;
+  width: 300px;
+}
 
 
 input[type="text"],
